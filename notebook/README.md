@@ -27,6 +27,12 @@ This project analyzes transactional sales data to extract business insights usin
 - Evaluated country-wise revenue distribution
 - Observed revenue concentration among a small subset of customers
 
+  ## Business Recommendations
+- Focus on retaining high-value customers to reduce dependency risk.
+- Investigate seasonal peaks to optimize inventory and promotional strategies.
+- Strengthen presence in top-performing geographic markets.
+- Implement strategies (bundling, upselling) to increase Average Order Value.
+
 
 ## Key Learnings
 - Practical SQL joins and aggregations for business analysis
